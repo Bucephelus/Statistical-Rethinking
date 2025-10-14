@@ -1,1 +1,1 @@
-Just some of my notes, and solutions to some questions to Richard McElreath's book, Statistical Rethinking. My solutions *may* or *may not be* correct. 
+Just some of my notes, and solutions (in Julia) to some questions in Richard McElreath's book, Statistical Rethinking (2nd Ed.). My solutions *may* or *may not be* correct. 
